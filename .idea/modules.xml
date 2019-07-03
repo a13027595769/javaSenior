@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStructures/DataStructures.iml" filepath="$PROJECT_DIR$/DataStructures/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sell/sell.iml" filepath="$PROJECT_DIR$/sell/sell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-crud.iml" filepath="$PROJECT_DIR$/spring-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-customer/spring-customer.iml" filepath="$PROJECT_DIR$/spring-customer/spring-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-gell/spring-gell.iml" filepath="$PROJECT_DIR$/spring-gell/spring-gell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-provider/spring-provider.iml" filepath="$PROJECT_DIR$/spring-provider/spring-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-amqp/springboot-amqp.iml" filepath="$PROJECT_DIR$/springboot-amqp/springboot-amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-cache/springboot-cache.iml" filepath="$PROJECT_DIR$/springboot-cache/springboot-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-elasticsearch/springboot-elasticsearch.iml" filepath="$PROJECT_DIR$/springboot-elasticsearch/springboot-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-jvm/springboot-jvm.iml" filepath="$PROJECT_DIR$/springboot-jvm/springboot-jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mianshi/springboot-mianshi.iml" filepath="$PROJECT_DIR$/springboot-mianshi/springboot-mianshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mianshi2/springboot-mianshi2.iml" filepath="$PROJECT_DIR$/springboot-mianshi2/springboot-mianshi2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-security/springboot-security.iml" filepath="$PROJECT_DIR$/springboot-security/springboot-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-task/springboot-task.iml" filepath="$PROJECT_DIR$/springboot-task/springboot-task.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-gell/pom.xml" />
+        <option value="$PROJECT_DIR$/sell/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-amqp/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-task/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-security/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mianshi/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mianshi2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-jvm/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
